@@ -1,0 +1,12 @@
+.bg_color{
+    background-color: lightgray;
+}
+.wrapper{
+    position: relative;
+    width: 150px;
+}
+.box{
+    width: 100px;
+    position: absolute;
+    left: 50%;
+}
